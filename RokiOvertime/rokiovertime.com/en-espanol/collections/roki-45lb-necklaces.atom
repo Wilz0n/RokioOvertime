@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rokiovertime.com/en-espanol/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rokiovertime.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rokiovertime.com/en-espanol/collections/roki-45lb-necklaces.atom"/>
+  <title>RokiOvertime</title>
+  <updated>2023-01-08T23:52:57+11:00</updated>
+  <author>
+    <name>RokiOvertime</name>
+  </author>
+  <entry>
+    <id>https://rokiovertime.com/en-espanol/products/8086402302246</id>
+    <published>2023-01-08T23:52:57+11:00</published>
+    <updated>2023-01-08T23:52:57+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://rokiovertime.com/en-espanol/products/roki-silver-45-lb-plate-necklace"/>
+    <title>Silver 45 lb Plate Necklace</title>
+    <s:type></s:type>
+    <s:vendor>RokiOvertime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/4311/0694/products/S033fddcc1d3940e9a49586ccaddc34d6C.jpg?v=1673176263"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RokiOvertime<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">A quintessential piece for any avid Gym enthusiast.</p>
+<p data-mce-fragment="1">Our designs are intended to emulate the look, feel and density of a standard 45lb plate design with a hint of artistic inspiration as seen by the quote:</p>
+<p data-mce-fragment="1">"When you feel like quitting, Remember why you started"</p>
+<p data-mce-fragment="1">This piece was intended for those gym members that like to remain lowkey whilst repping something quality, this is achieved via the amazing silver colour that will be sure to show that you mean business.</p>
+<p data-mce-fragment="1">We hope you enjoy it, Keep Grinding.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8086402302246</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">19.99</s:price>
+      <s:sku>200001034:201447815#AL18922-Silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rokiovertime.com/en-espanol/products/8086402269478</id>
+    <published>2023-01-08T23:51:41+11:00</published>
+    <updated>2023-01-08T23:51:41+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://rokiovertime.com/en-espanol/products/roki-gold-45-lb-plate-necklace"/>
+    <title>Gold 45 lb Plate Necklace</title>
+    <s:type></s:type>
+    <s:vendor>RokiOvertime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/4311/0694/products/S333a307653d54c02a5eeeff5f6182e2bk.jpg?v=1673176265"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RokiOvertime<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A quintessential piece for any avid Gym enthusiast.</p>
+<p>Our designs are intended to emulate the look feel and density of a standard 45lb plate design with a hint of artistic inspiration as seen by the quote:</p>
+<p>"When you feel like quitting, Remember why you started"</p>
+<p>This piece was intended for those gym members that like to make a statement, this is achieved via the bright gold colour that will be sure to snap necks as you walk by.</p>
+<p>We hope you enjoy it, Keep Grinding.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8086402269478</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">19.99</s:price>
+      <s:sku>200001034:17053024#AL18922-Gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rokiovertime.com/en-espanol/products/8086402236710</id>
+    <published>2023-01-08T23:51:12+11:00</published>
+    <updated>2023-01-08T23:51:12+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://rokiovertime.com/en-espanol/products/roki-classic-45-lb-iron-plate-necklace"/>
+    <title>Classic 45 lb Iron Plate Necklace</title>
+    <s:type></s:type>
+    <s:vendor>RokiOvertime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/4311/0694/products/Screenshot_20230311_181738_Instagram.jpg?v=1684058542"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RokiOvertime<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">A quintessential piece for any avid Gym enthusiast.</p>
+<p data-mce-fragment="1">Our designs are intended to emulate the look feel and density of a standard 45lb plate design with a hint of artistic inspiration as seen in the band design:</p>
+<p data-mce-fragment="1">This piece provides more of a rugged look compared to our other necklaces, which is sure to be appreciated by many strong lifters as it takes many artistic features of older rugged gym plates.</p>
+<p data-mce-fragment="1">We hope you enjoy it, Keep Grinding.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8086402236710</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">19.99</s:price>
+      <s:sku>200001034:361180#AL19027-Silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rokiovertime.com/en-espanol/products/8086402335014</id>
+    <published>2023-01-08T23:50:49+11:00</published>
+    <updated>2023-01-08T23:50:49+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://rokiovertime.com/en-espanol/products/roki-cast-iron-45-lb-plate-necklace"/>
+    <title>Cast Iron 45 lb Plate Necklace</title>
+    <s:type>Necklace</s:type>
+    <s:vendor>RokiOvertime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/4311/0694/products/S2b396ba84b194d7ea6c6371db2e682b8w.jpg?v=1673176268"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RokiOvertime<br>
+        <strong>Type: </strong>Necklace<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A quintessential piece for any avid Gym enthusiast.</p>
+<p>Our designs are intended to emulate the look feel and density of a standard 45lb plate design with a hint of artistic inspiration as seen by the quote:</p>
+<p>"When you feel like quitting, Remember why you started"</p>
+<p>We hope you enjoy it, Keep Grinding.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8086402335014</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">19.99</s:price>
+      <s:sku>200001034:201673808#AL18922-Black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

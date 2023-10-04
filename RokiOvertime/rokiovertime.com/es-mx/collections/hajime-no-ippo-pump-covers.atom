@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rokiovertime.com/es-mx/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rokiovertime.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rokiovertime.com/es-mx/collections/hajime-no-ippo-pump-covers.atom"/>
+  <title>RokiOvertime</title>
+  <updated>2023-10-02T17:36:41+11:00</updated>
+  <author>
+    <name>RokiOvertime</name>
+  </author>
+  <entry>
+    <id>https://rokiovertime.com/es-mx/products/8089818235174</id>
+    <published>2023-10-02T17:36:41+11:00</published>
+    <updated>2023-10-02T17:36:41+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://rokiovertime.com/es-mx/products/kamogawa-boxing-gym-training-t-shirt"/>
+    <title>Camiseta de entrenamiento de gimnasio de boxeo Kamogawa</title>
+    <s:type>0</s:type>
+    <s:vendor>RokiOvertime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/4311/0694/products/Sfa3fe967506245dfa2a2dc8e85e6dbe50.jpg?v=1696228904"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>RokiOvertime<br>
+        <strong>Tipo: </strong>0<br>
+        <strong>Precio: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Makunouchi Ippo. El epítome de las amoladoras. ¿Qué significa ser fuerte?</p>
+<p> Representa al gimnasio de boxeo de Kamogawa con esta cubierta de bomba con estilo de equipo. Tanto para los amantes del gimnasio como para los luchadores, canaliza tu espíritu de lucha. (PD: ¿Sabías que hay un gimnasio de boxeo real codirigido por el mangaka George Morikawa?)</p>
+<p> Esperamos que disfrutes y entrenes duro.</p>
+<p> <span>Esta camiseta está hecha de una mezcla de poliéster y modal, lo que significa que es ligera y transpirable, perfecta para las sesiones de entrenamiento (estas para los boxeadores).</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ippo</s:tag>
+    <s:tag>T-shirts</s:tag>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8089818235174</id>
+      <title>Blanco / XS</title>
+      <s:price currency="AUD">34.99</s:price>
+      <s:sku>14:771#74MDE763-white;5:100014066</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8089818235174</id>
+      <title>Negro / XS</title>
+      <s:price currency="AUD">34.99</s:price>
+      <s:sku>14:193#74MDE763-black;5:100014066</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8089818235174</id>
+      <title>Blanco / S</title>
+      <s:price currency="AUD">34.99</s:price>
+      <s:sku>14:771#74MDE763-white;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8089818235174</id>
+      <title>Negro / S</title>
+      <s:price currency="AUD">34.99</s:price>
+      <s:sku>14:193#74MDE763-black;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8089818235174</id>
+      <title>Blanco / M</title>
+      <s:price currency="AUD">34.99</s:price>
+      <s:sku>14:771#74MDE763-white;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8089818235174</id>
+      <title>Negro / M</title>
+      <s:price currency="AUD">34.99</s:price>
+      <s:sku>14:193#74MDE763-black;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8089818235174</id>
+      <title>Blanco / L</title>
+      <s:price currency="AUD">34.99</s:price>
+      <s:sku>14:771#74MDE763-white;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8089818235174</id>
+      <title>Negro / L</title>
+      <s:price currency="AUD">34.99</s:price>
+      <s:sku>14:193#74MDE763-black;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8089818235174</id>
+      <title>Blanco / SG</title>
+      <s:price currency="AUD">34.99</s:price>
+      <s:sku>14:771#74MDE763-white;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8089818235174</id>
+      <title>Negro / SG</title>
+      <s:price currency="AUD">34.99</s:price>
+      <s:sku>14:193#74MDE763-black;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8089818235174</id>
+      <title>Blanco / XXL</title>
+      <s:price currency="AUD">34.99</s:price>
+      <s:sku>14:771#74MDE763-white;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8089818235174</id>
+      <title>Negro / XXL</title>
+      <s:price currency="AUD">34.99</s:price>
+      <s:sku>14:193#74MDE763-black;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8089818235174</id>
+      <title>Blanco / XXXL</title>
+      <s:price currency="AUD">34.99</s:price>
+      <s:sku>14:771#74MDE763-white;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8089818235174</id>
+      <title>Negro / XXXL</title>
+      <s:price currency="AUD">34.99</s:price>
+      <s:sku>14:193#74MDE763-black;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8089818235174</id>
+      <title>Blanco / 4XL</title>
+      <s:price currency="AUD">34.99</s:price>
+      <s:sku>14:771#74MDE763-white;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8089818235174</id>
+      <title>Negro / 4XL</title>
+      <s:price currency="AUD">34.99</s:price>
+      <s:sku>14:193#74MDE763-black;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rokiovertime.com/es-mx/products/8089818464550</id>
+    <published>2023-10-02T17:35:38+11:00</published>
+    <updated>2023-10-02T17:35:38+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://rokiovertime.com/es-mx/products/ippo-manga-cover-training-t-shirt"/>
+    <title>Camiseta de entrenamiento Ippo Manga Cover</title>
+    <s:type>0</s:type>
+    <s:vendor>RokiOvertime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/4311/0694/products/Sa15b5a8645f747f78eab4079e2b57d8fV.jpg?v=1673583768"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>RokiOvertime<br>
+        <strong>Tipo: </strong>0<br>
+        <strong>Precio: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1></h1>
+ <p>Makunouchi Ippo. El epítome de las amoladoras. ¿Qué significa ser fuerte?</p>
+<p> Representa tu búsqueda personal de fuerza con uno de nuestros personajes favoritos personales de todos los tiempos: Ippo. Tanto para los amantes del gimnasio como para los luchadores, canaliza tu espíritu de lucha en tu entrenamiento con nuestra camiseta Ippo con estilo manga.</p>
+<p> Esperamos que disfrutes y entrenes duro.</p>
+<p> Esta camiseta está hecha de una mezcla de poliéster y modal, lo que significa que es ligera y transpirable, perfecta para las sesiones de entrenamiento (esta es para los boxeadores).</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ippo</s:tag>
+    <s:tag>T-shirts</s:tag>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8089818464550</id>
+      <title>Blanco / XS</title>
+      <s:price currency="AUD">34.99</s:price>
+      <s:sku>14:771#75BDY327-white;5:100014066</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8089818464550</id>
+      <title>Negro / XS</title>
+      <s:price currency="AUD">34.99</s:price>
+      <s:sku>14:193#75BDY327-black;5:100014066</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8089818464550</id>
+      <title>Blanco / S</title>
+      <s:price currency="AUD">34.99</s:price>
+      <s:sku>14:771#75BDY327-white;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8089818464550</id>
+      <title>Negro / S</title>
+      <s:price currency="AUD">34.99</s:price>
+      <s:sku>14:193#75BDY327-black;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8089818464550</id>
+      <title>Blanco / M</title>
+      <s:price currency="AUD">34.99</s:price>
+      <s:sku>14:771#75BDY327-white;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8089818464550</id>
+      <title>Negro / M</title>
+      <s:price currency="AUD">34.99</s:price>
+      <s:sku>14:193#75BDY327-black;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8089818464550</id>
+      <title>Blanco / L</title>
+      <s:price currency="AUD">34.99</s:price>
+      <s:sku>14:771#75BDY327-white;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8089818464550</id>
+      <title>Negro / L</title>
+      <s:price currency="AUD">34.99</s:price>
+      <s:sku>14:193#75BDY327-black;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8089818464550</id>
+      <title>Blanco / SG</title>
+      <s:price currency="AUD">34.99</s:price>
+      <s:sku>14:771#75BDY327-white;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8089818464550</id>
+      <title>Negro / SG</title>
+      <s:price currency="AUD">34.99</s:price>
+      <s:sku>14:193#75BDY327-black;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8089818464550</id>
+      <title>Blanco / XXL</title>
+      <s:price currency="AUD">34.99</s:price>
+      <s:sku>14:771#75BDY327-white;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8089818464550</id>
+      <title>Negro / XXL</title>
+      <s:price currency="AUD">34.99</s:price>
+      <s:sku>14:193#75BDY327-black;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8089818464550</id>
+      <title>Blanco / XXXL</title>
+      <s:price currency="AUD">34.99</s:price>
+      <s:sku>14:771#75BDY327-white;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8089818464550</id>
+      <title>Negro / XXXL</title>
+      <s:price currency="AUD">34.99</s:price>
+      <s:sku>14:193#75BDY327-black;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8089818464550</id>
+      <title>Blanco / 4XL</title>
+      <s:price currency="AUD">34.99</s:price>
+      <s:sku>14:771#75BDY327-white;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8089818464550</id>
+      <title>Negro / 4XL</title>
+      <s:price currency="AUD">34.99</s:price>
+      <s:sku>14:193#75BDY327-black;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rokiovertime.com/es-mx/products/8089818267942</id>
+    <published>2023-10-02T17:25:39+11:00</published>
+    <updated>2023-10-02T17:25:39+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://rokiovertime.com/es-mx/products/ippo-training-t-shirt"/>
+    <title>Camiseta Entrenamiento Ippo</title>
+    <s:type>0</s:type>
+    <s:vendor>RokiOvertime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/4311/0694/products/Sa319d0c950b949d08823ae7139282f819.jpg?v=1673408139"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>RokiOvertime<br>
+        <strong>Tipo: </strong>0<br>
+        <strong>Precio: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Makunouchi Ippo. El epítome de las amoladoras. ¿Qué significa ser fuerte?</p>
+<p> Representa al anciano kamogawa e infunde la disciplina inquebrantable de ippo en tu propio entrenamiento con nuestra funda Kamogawa Boxing Gym Pump. Tanto para los que van al gimnasio como para los luchadores, canaliza tu espíritu de lucha.</p>
+<p> Esperamos que disfrutes y entrenes duro.</p>
+<p> <span>Esta camiseta está hecha de una mezcla de poliéster y modal, lo que significa que es ligera y transpirable, perfecta para las sesiones de entrenamiento (estas para los boxeadores).</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ippo</s:tag>
+    <s:tag>T-shirts</s:tag>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8089818267942</id>
+      <title>Negro / XS</title>
+      <s:price currency="AUD">34.99</s:price>
+      <s:sku>14:771#black;5:100014066</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8089818267942</id>
+      <title>Blanco / XS</title>
+      <s:price currency="AUD">34.99</s:price>
+      <s:sku>14:193#white;5:100014066</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8089818267942</id>
+      <title>Negro / S</title>
+      <s:price currency="AUD">34.99</s:price>
+      <s:sku>14:771#black;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8089818267942</id>
+      <title>Blanco / S</title>
+      <s:price currency="AUD">34.99</s:price>
+      <s:sku>14:193#white;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8089818267942</id>
+      <title>Negro / M</title>
+      <s:price currency="AUD">34.99</s:price>
+      <s:sku>14:771#black;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8089818267942</id>
+      <title>Blanco / M</title>
+      <s:price currency="AUD">34.99</s:price>
+      <s:sku>14:193#white;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8089818267942</id>
+      <title>Negro / L</title>
+      <s:price currency="AUD">34.99</s:price>
+      <s:sku>14:771#black;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8089818267942</id>
+      <title>Blanco / L</title>
+      <s:price currency="AUD">34.99</s:price>
+      <s:sku>14:193#white;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8089818267942</id>
+      <title>Negro / SG</title>
+      <s:price currency="AUD">34.99</s:price>
+      <s:sku>14:771#black;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8089818267942</id>
+      <title>Blanco / SG</title>
+      <s:price currency="AUD">34.99</s:price>
+      <s:sku>14:193#white;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8089818267942</id>
+      <title>Negro / XXL</title>
+      <s:price currency="AUD">34.99</s:price>
+      <s:sku>14:771#black;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8089818267942</id>
+      <title>Blanco / XXL</title>
+      <s:price currency="AUD">34.99</s:price>
+      <s:sku>14:193#white;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8089818267942</id>
+      <title>Negro / XXXL</title>
+      <s:price currency="AUD">34.99</s:price>
+      <s:sku>14:771#black;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8089818267942</id>
+      <title>Blanco / XXXL</title>
+      <s:price currency="AUD">34.99</s:price>
+      <s:sku>14:193#white;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8089818267942</id>
+      <title>Negro / 4XL</title>
+      <s:price currency="AUD">34.99</s:price>
+      <s:sku>14:771#black;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8089818267942</id>
+      <title>Blanco / 4XL</title>
+      <s:price currency="AUD">34.99</s:price>
+      <s:sku>14:193#white;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rokiovertime.com/es-mx/products/8548370284838</id>
+    <published>2023-08-17T00:55:49+10:00</published>
+    <updated>2023-08-17T00:55:49+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://rokiovertime.com/es-mx/products/ippo-shorts-red-and-blue"/>
+    <title>Hajime No Ippo Training Shorts</title>
+    <s:type></s:type>
+    <s:vendor>RokiOvertime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/4311/0694/files/Sf15e9e7465be49b08ed1ce3689af6e16z.jpg?v=1692197473"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>RokiOvertime<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Train like Ippo and represent Makunouchi fishing boat rental in Ippo's famous fight shorts! </p>
+<p>Our Hajime no Ippo Inspired gym shorts are a perfect light blend of rayon and nylon for ultimate breathability and comfort during your hardest of training sessions.</p>
+<p>Check the sizing chart and consider sizing up once as these shorts run a little smaller.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ippo</s:tag>
+    <s:tag>Shorts</s:tag>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8548370284838</id>
+      <title>Red (Champion) / S</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#1;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8548370284838</id>
+      <title>Blue (Challenger) / S</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:193#2;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8548370284838</id>
+      <title>Red (Champion) / M</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#1;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8548370284838</id>
+      <title>Blue (Challenger) / M</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:193#2;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8548370284838</id>
+      <title>Red (Champion) / L</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#1;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8548370284838</id>
+      <title>Blue (Challenger) / L</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:193#2;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8548370284838</id>
+      <title>Red (Champion) / XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#1;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8548370284838</id>
+      <title>Blue (Challenger) / XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:193#2;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8548370284838</id>
+      <title>Red (Champion) / XXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#1;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8548370284838</id>
+      <title>Blue (Challenger) / XXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:193#2;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8548370284838</id>
+      <title>Red (Champion) / XXXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#1;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8548370284838</id>
+      <title>Blue (Challenger) / XXXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:193#2;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8548370284838</id>
+      <title>Red (Champion) / 4XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#1;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8548370284838</id>
+      <title>Blue (Challenger) / 4XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:193#2;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8548370284838</id>
+      <title>Red (Champion) / 5XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#1;5:200000991</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8548370284838</id>
+      <title>Blue (Challenger) / 5XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:193#2;5:200000991</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8548370284838</id>
+      <title>Red (Champion) / 6XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#1;5:200005259</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8548370284838</id>
+      <title>Blue (Challenger) / 6XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:193#2;5:200005259</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rokiovertime.com/es-mx/products/8485040324902</id>
+    <published>2023-07-30T17:39:32+10:00</published>
+    <updated>2023-07-30T17:39:32+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://rokiovertime.com/es-mx/products/fighters-triple-pack"/>
+    <title>Paquete triple de luchadores</title>
+    <s:type></s:type>
+    <s:vendor>RokiOvertime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/4311/0694/files/temp_F2w8dni_8b201953-f7d5-41ef-ab3f-b0a02a300268.png?v=1690702568"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>RokiOvertime<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> ¡Un combo 1-2-3 de nuestra caída completa de handwrap! ¡Consigue suficientes envolturas para tener siempre un par limpio y recibe un descuento en nuestras envolturas de anime inspiradas en Dragonball, Naruto y Hajime no Ippo! El paquete solo estará activo hasta el 1 de agosto, ¡así que actúa rápido! Los envoltorios incluidos miden 4,5 m, consulte cada una de sus páginas individuales para obtener más detalles sobre ellos.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bundle</s:tag>
+    <s:tag>DragonBall</s:tag>
+    <s:tag>Handwrap</s:tag>
+    <s:tag>ippo</s:tag>
+    <s:tag>Naruto</s:tag>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8485040324902</id>
+      <title>Hajime no Ippo Wraps- Dragon Ball Wraps - Naruto Boxing Wraps - *PRE-ORDEN*</title>
+      <s:price currency="AUD">80.00</s:price>
+      <s:sku>wrap-3bundle</s:sku>
+      <s:grams>342</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rokiovertime.com/es-mx/products/8386810216742</id>
+    <published>2023-06-24T09:29:40+10:00</published>
+    <updated>2023-06-24T09:29:40+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://rokiovertime.com/es-mx/products/hajime-no-ippo-boxing-hand-wraps"/>
+    <title>Vendas de boxeo Hajime no Ippo *PRE-ORDEN*</title>
+    <s:type></s:type>
+    <s:vendor>RokiOvertime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/4311/0694/files/July5thSlide2.png?v=1688199005"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>RokiOvertime<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Entrena como un campeón con estas vendas de boxeo de Hajime no Ippo, ¡diseñadas para motivarte a luchar por lo mejor de ti! Lleva tu boxeo, muay thai, mma o cualquier arte marcial al siguiente nivel con nuestra mezcla de algodón elástico estilo mexicano.<br> Estas vendas son de primera calidad para garantizar la protección de la muñeca y los nudillos. Haz un esfuerzo adicional con el estampado de cuerpo entero a lo largo de la envoltura, inspirado en el legendario anime Hajime no Ippo. Listos, listos, ¡lucha!</p>
+<p> DISPONIBILIDAD <strong>LIMITADA</strong> <span><strong>,</strong> ¡así que ordene antes de que se lo pierda!</span></p>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Handwrap</s:tag>
+    <s:tag>ippo</s:tag>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8386810216742</id>
+      <title>4m / 160&quot;</title>
+      <s:price currency="AUD">30.00</s:price>
+      <s:sku>Ippo-Wrap-4</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8386810216742</id>
+      <title>4,5 m / 180&quot;</title>
+      <s:price currency="AUD">30.00</s:price>
+      <s:sku>Ippo-Wrap</s:sku>
+      <s:grams>114</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8386810216742</id>
+      <title>5m / 200&quot;</title>
+      <s:price currency="AUD">30.00</s:price>
+      <s:sku>Ippo-Wrap-5</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rokiovertime.com/es-mx/products/8386144370982</id>
+    <published>2023-06-24T02:51:01+10:00</published>
+    <updated>2023-06-24T02:51:01+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://rokiovertime.com/es-mx/products/ippo-acid-wash-pump-cover"/>
+    <title>Funda para Bomba de Boxeo Vintage Ippo</title>
+    <s:type></s:type>
+    <s:vendor>RokiOvertime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/4311/0694/products/Sed737d8170e94da999cc26dc94facabct.jpg?v=1687537770"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>RokiOvertime<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"> Conviértete en el mejor. ¿Qué significa ser fuerte?<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"> Representa a Ippo en tu viaje y sigue trabajando con nuestra cubierta de bomba inspirada en Hajime no Ippo. Perfecta para la ropa de calle, o como una camiseta de gimnasia, esta camiseta de estilo retro con cubierta de mang es para que los fanáticos del boxeo la representen donde quiera que vayan.</p>
+<p data-mce-fragment="1"> Esta colección presenta:</p>
+ <p data-mce-fragment="1">- camisa de estilo vintage con lavado ácido</p>
+<p data-mce-fragment="1"> - caída de gran tamaño para una cubierta de bomba perfecta</p>
+<p data-mce-fragment="1"> - gráfico de estilo vintage de alta calidad</p>
+<p data-mce-fragment="1"> Confeccionada 100 % con algodón, esta camiseta de alta calidad es duradera y cómoda, lo que te ayuda a trabajar horas extras con estilo.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Acid</s:tag>
+    <s:tag>ippo</s:tag>
+    <s:tag>T-shirts</s:tag>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8386144370982</id>
+      <title>S</title>
+      <s:price currency="AUD">48.00</s:price>
+      <s:sku>14:173#Black 3;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8386144370982</id>
+      <title>M</title>
+      <s:price currency="AUD">48.00</s:price>
+      <s:sku>14:173#Black 3;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8386144370982</id>
+      <title>L</title>
+      <s:price currency="AUD">48.00</s:price>
+      <s:sku>14:173#Black 3;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8386144370982</id>
+      <title>SG</title>
+      <s:price currency="AUD">48.00</s:price>
+      <s:sku>14:173#Black 3;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8386144370982</id>
+      <title>XXL</title>
+      <s:price currency="AUD">48.00</s:price>
+      <s:sku>14:173#Black 3;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-mx/products/8386144370982</id>
+      <title>XXXL</title>
+      <s:price currency="AUD">48.00</s:price>
+      <s:sku>14:173#Black 3;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

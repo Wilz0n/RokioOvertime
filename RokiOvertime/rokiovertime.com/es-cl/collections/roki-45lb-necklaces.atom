@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rokiovertime.com/es-cl/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rokiovertime.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rokiovertime.com/es-cl/collections/roki-45lb-necklaces.atom"/>
+  <title>RokiOvertime</title>
+  <updated>2023-01-08T23:52:57+11:00</updated>
+  <author>
+    <name>RokiOvertime</name>
+  </author>
+  <entry>
+    <id>https://rokiovertime.com/es-cl/products/8086402302246</id>
+    <published>2023-01-08T23:52:57+11:00</published>
+    <updated>2023-01-08T23:52:57+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://rokiovertime.com/es-cl/products/roki-silver-45-lb-plate-necklace"/>
+    <title>Collar de placa de plata de 45 libras</title>
+    <s:type></s:type>
+    <s:vendor>RokiOvertime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/4311/0694/products/S033fddcc1d3940e9a49586ccaddc34d6C.jpg?v=1673176263"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>RokiOvertime<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Una pieza por excelencia para cualquier ávido entusiasta del gimnasio.</p>
+<p data-mce-fragment="1"> Nuestros diseños pretenden emular el aspecto, la sensación y la densidad de un diseño de placa estándar de 45 lb con un toque de inspiración artística, como se ve en la cita:</p>
+<p data-mce-fragment="1"> "Cuando tengas ganas de renunciar, recuerda por qué empezaste"</p>
+<p data-mce-fragment="1"> Esta pieza fue pensada para aquellos miembros del gimnasio a los que les gusta permanecer discretos mientras representan algo de calidad, esto se logra a través del increíble color plateado que seguramente demostrará que hablas en serio.</p>
+<p data-mce-fragment="1"> Esperamos que lo disfrutes, Sigue Moliendo.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rokiovertime.com/es-cl/products/8086402302246</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">19.99</s:price>
+      <s:sku>200001034:201447815#AL18922-Silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rokiovertime.com/es-cl/products/8086402269478</id>
+    <published>2023-01-08T23:51:41+11:00</published>
+    <updated>2023-01-08T23:51:41+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://rokiovertime.com/es-cl/products/roki-gold-45-lb-plate-necklace"/>
+    <title>Collar de placa de oro de 45 libras</title>
+    <s:type></s:type>
+    <s:vendor>RokiOvertime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/4311/0694/products/S333a307653d54c02a5eeeff5f6182e2bk.jpg?v=1673176265"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>RokiOvertime<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Una pieza por excelencia para cualquier ávido entusiasta del gimnasio.</p>
+<p> Nuestros diseños pretenden emular la sensación de apariencia y la densidad de un diseño de plato estándar de 45 libras con un toque de inspiración artística como se ve en la cita:</p>
+<p> "Cuando tengas ganas de renunciar, recuerda por qué empezaste"</p>
+<p> Esta pieza fue pensada para aquellos miembros del gimnasio a los que les gusta hacer una declaración, esto se logra a través del color dorado brillante que seguramente romperá el cuello cuando pases.</p>
+<p> Esperamos que lo disfrutes, Sigue Moliendo.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rokiovertime.com/es-cl/products/8086402269478</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">19.99</s:price>
+      <s:sku>200001034:17053024#AL18922-Gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rokiovertime.com/es-cl/products/8086402236710</id>
+    <published>2023-01-08T23:51:12+11:00</published>
+    <updated>2023-01-08T23:51:12+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://rokiovertime.com/es-cl/products/roki-classic-45-lb-iron-plate-necklace"/>
+    <title>Collar clásico de placa de hierro de 45 libras</title>
+    <s:type></s:type>
+    <s:vendor>RokiOvertime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/4311/0694/products/Screenshot_20230311_181738_Instagram.jpg?v=1684058542"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>RokiOvertime<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Una pieza por excelencia para cualquier ávido entusiasta del gimnasio.</p>
+<p data-mce-fragment="1"> Nuestros diseños pretenden emular la apariencia y la densidad de un diseño de placa estándar de 45 libras con un toque de inspiración artística como se ve en el diseño de la banda:</p>
+<p data-mce-fragment="1"> Esta pieza ofrece un aspecto más resistente en comparación con nuestros otros collares, que seguramente será apreciado por muchos levantadores fuertes, ya que toma muchas características artísticas de las placas de gimnasio resistentes más antiguas.</p>
+<p data-mce-fragment="1"> Esperamos que lo disfrutes, Sigue Moliendo.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rokiovertime.com/es-cl/products/8086402236710</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">19.99</s:price>
+      <s:sku>200001034:361180#AL19027-Silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rokiovertime.com/es-cl/products/8086402335014</id>
+    <published>2023-01-08T23:50:49+11:00</published>
+    <updated>2023-01-08T23:50:49+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://rokiovertime.com/es-cl/products/roki-cast-iron-45-lb-plate-necklace"/>
+    <title>Collar de placa de hierro fundido de 45 libras</title>
+    <s:type>Necklace</s:type>
+    <s:vendor>RokiOvertime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/4311/0694/products/S2b396ba84b194d7ea6c6371db2e682b8w.jpg?v=1673176268"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>RokiOvertime<br>
+        <strong>Tipo: </strong>Necklace<br>
+        <strong>Precio: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Una pieza por excelencia para cualquier ávido entusiasta del gimnasio.</p>
+<p> Nuestros diseños pretenden emular la sensación de apariencia y la densidad de un diseño de plato estándar de 45 libras con un toque de inspiración artística como se ve en la cita:</p>
+<p> "Cuando tengas ganas de renunciar, recuerda por qué empezaste"</p>
+<p> Esperamos que lo disfrutes, Sigue Moliendo.</p>
+<p></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rokiovertime.com/es-cl/products/8086402335014</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">19.99</s:price>
+      <s:sku>200001034:201673808#AL18922-Black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

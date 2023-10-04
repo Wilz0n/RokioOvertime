@@ -1,0 +1,2989 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rokiovertime.com/en-espanol/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rokiovertime.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rokiovertime.com/en-espanol/collections/gym-shorts.atom"/>
+  <title>RokiOvertime</title>
+  <updated>2023-08-17T00:55:49+10:00</updated>
+  <author>
+    <name>RokiOvertime</name>
+  </author>
+  <entry>
+    <id>https://rokiovertime.com/en-espanol/products/8548370284838</id>
+    <published>2023-08-17T00:55:49+10:00</published>
+    <updated>2023-08-17T00:55:49+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://rokiovertime.com/en-espanol/products/ippo-shorts-red-and-blue"/>
+    <title>Hajime No Ippo Training Shorts</title>
+    <s:type></s:type>
+    <s:vendor>RokiOvertime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/4311/0694/files/Sf15e9e7465be49b08ed1ce3689af6e16z.jpg?v=1692197473"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RokiOvertime<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Train like Ippo and represent Makunouchi fishing boat rental in Ippo's famous fight shorts! </p>
+<p>Our Hajime no Ippo Inspired gym shorts are a perfect light blend of rayon and nylon for ultimate breathability and comfort during your hardest of training sessions.</p>
+<p>Check the sizing chart and consider sizing up once as these shorts run a little smaller.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ippo</s:tag>
+    <s:tag>Shorts</s:tag>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8548370284838</id>
+      <title>Red (Champion) / S</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#1;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8548370284838</id>
+      <title>Blue (Challenger) / S</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:193#2;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8548370284838</id>
+      <title>Red (Champion) / M</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#1;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8548370284838</id>
+      <title>Blue (Challenger) / M</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:193#2;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8548370284838</id>
+      <title>Red (Champion) / L</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#1;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8548370284838</id>
+      <title>Blue (Challenger) / L</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:193#2;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8548370284838</id>
+      <title>Red (Champion) / XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#1;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8548370284838</id>
+      <title>Blue (Challenger) / XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:193#2;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8548370284838</id>
+      <title>Red (Champion) / XXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#1;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8548370284838</id>
+      <title>Blue (Challenger) / XXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:193#2;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8548370284838</id>
+      <title>Red (Champion) / XXXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#1;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8548370284838</id>
+      <title>Blue (Challenger) / XXXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:193#2;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8548370284838</id>
+      <title>Red (Champion) / 4XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#1;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8548370284838</id>
+      <title>Blue (Challenger) / 4XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:193#2;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8548370284838</id>
+      <title>Red (Champion) / 5XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#1;5:200000991</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8548370284838</id>
+      <title>Blue (Challenger) / 5XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:193#2;5:200000991</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8548370284838</id>
+      <title>Red (Champion) / 6XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#1;5:200005259</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8548370284838</id>
+      <title>Blue (Challenger) / 6XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:193#2;5:200005259</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rokiovertime.com/en-espanol/products/8237620134182</id>
+    <published>2023-04-12T15:07:16+10:00</published>
+    <updated>2023-04-12T15:07:16+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://rokiovertime.com/en-espanol/products/baki-gym-shorts"/>
+    <title>Baki Gym Shorts</title>
+    <s:type></s:type>
+    <s:vendor>RokiOvertime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/4311/0694/products/S4a48438a9cf14d52b4dd592f687b4d8bp.jpg?v=1681275633"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RokiOvertime<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The classic Baki shorts are a must-have for any fans, fighters, and gym goers, reflecting your strength and dedication to the grind.</p>
+<p><span>Supporting you with features of:</span></p>
+<ul>
+<li><span>Dual pockets</span></li>
+<li><span>Drawstring waist</span></li>
+<li><span>Durable sublimated design</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baki</s:tag>
+    <s:tag>Shorts</s:tag>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8237620134182</id>
+      <title>Original / S</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:1052#red2;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8237620134182</id>
+      <title>Original / M</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:1052#red2;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8237620134182</id>
+      <title>Original / L</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:1052#red2;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8237620134182</id>
+      <title>Original / XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:1052#red2;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8237620134182</id>
+      <title>Original / XXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:1052#red2;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8237620134182</id>
+      <title>Original / XXXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:1052#red2;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8237620134182</id>
+      <title>Original / 4XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:1052#red2;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8237620134182</id>
+      <title>Original / 5XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:1052#red2;5:200000991</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8237620134182</id>
+      <title>Original / 6XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:1052#red2;5:200005259</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rokiovertime.com/en-espanol/products/8104270070054</id>
+    <published>2023-01-21T00:01:38+11:00</published>
+    <updated>2023-01-21T00:01:38+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://rokiovertime.com/en-espanol/products/anime-sports-shorts-men-women-classic-gym-workout-mesh-shorts-one-layer-running-shorts-fashion-design-swimming-fitness-shorts-3"/>
+    <title>Massacre Gym Shorts</title>
+    <s:type></s:type>
+    <s:vendor>RokiOvertime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/4311/0694/products/See9ea5e8e9a541d99cbaaf139cad8cbbP.jpg?v=1674217612"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RokiOvertime<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>No Mercy. Stop at nothing to achieve your goals and train relentlessly with our Itachi themed Massacre Gym Shorts. Kill your next workout like Itachi killed his fa... you know how it is.<br></p>
+<p> </p>
+<p><span>Supporting you with features of:</span></p>
+<ul>
+<li><span>Dual pockets</span></li>
+<li><span>Drawstring waist</span></li>
+<li><span>Durable sublimated design</span></li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Naruto</s:tag>
+    <s:tag>Shorts</s:tag>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104270070054</id>
+      <title>Red / S</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:350853#Red1;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104270070054</id>
+      <title>Red / M</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:350853#Red1;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104270070054</id>
+      <title>Red / L</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:350853#Red1;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104270070054</id>
+      <title>Red / XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:350853#Red1;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104270070054</id>
+      <title>Red / XXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:350853#Red1;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104270070054</id>
+      <title>Red / XXXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:350853#Red1;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104270070054</id>
+      <title>Red / 4XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:350853#Red1;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104270070054</id>
+      <title>Red / 5XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:350853#Red1;5:200000991</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104270070054</id>
+      <title>Red / 6XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:350853#Red1;5:200005259</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rokiovertime.com/en-espanol/products/8104270201126</id>
+    <published>2023-01-20T23:58:58+11:00</published>
+    <updated>2023-01-20T23:58:58+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://rokiovertime.com/en-espanol/products/anime-sports-shorts-men-women-classic-gym-workout-mesh-shorts-one-layer-running-shorts-fashion-design-swimming-fitness-shorts-4"/>
+    <title>Gaara Gym Shorts</title>
+    <s:type></s:type>
+    <s:vendor>RokiOvertime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/4311/0694/products/S8a6283907013407c963192934740bcacV.jpg?v=1674217621"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RokiOvertime<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These shorts decpict "ai", meaning love. Fall in love with the grind with our Gaara-styled gym shorts from Naruto.</p>
+<p> </p>
+<p><span>Supporting you with features of:</span></p>
+<ul>
+<li><span>Dual pockets</span></li>
+<li><span>Drawstring waist</span></li>
+<li><span>Durable sublimated design</span></li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Naruto</s:tag>
+    <s:tag>Shorts</s:tag>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104270201126</id>
+      <title>Beige / S</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:366#beige1;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104270201126</id>
+      <title>Beige / M</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:366#beige1;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104270201126</id>
+      <title>Beige / L</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:366#beige1;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104270201126</id>
+      <title>Beige / XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:366#beige1;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104270201126</id>
+      <title>Beige / XXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:366#beige1;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104270201126</id>
+      <title>Beige / XXXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:366#beige1;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104270201126</id>
+      <title>Beige / 4XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:366#beige1;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104270201126</id>
+      <title>Beige / 5XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:366#beige1;5:200000991</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104270201126</id>
+      <title>Beige / 6XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:366#beige1;5:200005259</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rokiovertime.com/en-espanol/products/8104269906214</id>
+    <published>2023-01-20T23:56:25+11:00</published>
+    <updated>2023-01-20T23:56:25+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://rokiovertime.com/en-espanol/products/anime-sports-shorts-men-women-classic-gym-workout-mesh-shorts-one-layer-running-shorts-fashion-design-swimming-fitness-shorts-2"/>
+    <title>Itachi Gym Shorts</title>
+    <s:type></s:type>
+    <s:vendor>RokiOvertime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/4311/0694/products/S2b782df1c31e49bbbeacc28947bae124X.jpg?v=1674217584"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RokiOvertime<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sacrifice comfort for your greater good. Work hard now and seek peace later. Stay on the grind and seek perfection with our Itachi white or red shorts.<br></p>
+<p> </p>
+<p><span>Supporting you with features of:</span></p>
+<ul>
+<li><span>Dual pockets</span></li>
+<li><span>Drawstring waist</span></li>
+<li><span>Durable sublimated design</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Naruto</s:tag>
+    <s:tag>Shorts</s:tag>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104269906214</id>
+      <title>Red / S</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:200004890#red;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104269906214</id>
+      <title>White / S</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:175#white;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104269906214</id>
+      <title>Red / M</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:200004890#red;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104269906214</id>
+      <title>White / M</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:175#white;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104269906214</id>
+      <title>Red / L</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:200004890#red;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104269906214</id>
+      <title>White / L</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:175#white;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104269906214</id>
+      <title>Red / XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:200004890#red;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104269906214</id>
+      <title>White / XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:175#white;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104269906214</id>
+      <title>Red / XXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:200004890#red;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104269906214</id>
+      <title>White / XXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:175#white;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104269906214</id>
+      <title>Red / XXXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:200004890#red;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104269906214</id>
+      <title>White / XXXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:175#white;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104269906214</id>
+      <title>Red / 4XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:200004890#red;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104269906214</id>
+      <title>White / 4XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:175#white;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104269906214</id>
+      <title>Red / 5XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:200004890#red;5:200000991</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104269906214</id>
+      <title>White / 5XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:175#white;5:200000991</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104269906214</id>
+      <title>Red / 6XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:200004890#red;5:200005259</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104269906214</id>
+      <title>White / 6XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:175#white;5:200005259</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rokiovertime.com/en-espanol/products/8104270496038</id>
+    <published>2023-01-20T23:47:17+11:00</published>
+    <updated>2023-01-20T23:47:17+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://rokiovertime.com/en-espanol/products/anime-sports-shorts-men-women-classic-gym-workout-mesh-shorts-one-layer-running-shorts-fashion-design-swimming-fitness-shorts-5"/>
+    <title>Eight Trigrams Gym Shorts</title>
+    <s:type></s:type>
+    <s:vendor>RokiOvertime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/4311/0694/products/S136ec3ccd78d45f0b65ae7b2cd483c5eV.jpg?v=1674217672"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RokiOvertime<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Break your seal and train harder than ever with Naruto's <span data-mce-fragment="1">Eight Trigrams Seal gym shorts.</span></p>
+<p> </p>
+<p><span>Supporting you with features of:</span></p>
+<ul>
+<li><span>Dual pockets</span></li>
+<li><span>Drawstring waist</span></li>
+<li><span>Durable sublimated design</span></li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Naruto</s:tag>
+    <s:tag>Shorts</s:tag>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104270496038</id>
+      <title>Orange / S</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:203008818#orange;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104270496038</id>
+      <title>Orange / M</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:203008818#orange;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104270496038</id>
+      <title>Orange / L</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:203008818#orange;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104270496038</id>
+      <title>Orange / XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:203008818#orange;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104270496038</id>
+      <title>Orange / XXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:203008818#orange;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104270496038</id>
+      <title>Orange / XXXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:203008818#orange;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104270496038</id>
+      <title>Orange / 4XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:203008818#orange;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104270496038</id>
+      <title>Orange / 5XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:203008818#orange;5:200000991</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104270496038</id>
+      <title>Orange / 6XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:203008818#orange;5:200005259</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rokiovertime.com/en-espanol/products/8104270594342</id>
+    <published>2023-01-20T23:44:31+11:00</published>
+    <updated>2023-01-20T23:44:31+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://rokiovertime.com/en-espanol/products/anime-sports-shorts-men-women-classic-gym-workout-mesh-shorts-one-layer-running-shorts-fashion-design-swimming-fitness-shorts-6"/>
+    <title>Curse Mark Gym Shorts</title>
+    <s:type>0</s:type>
+    <s:vendor>RokiOvertime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/4311/0694/products/S6000a4169feb41a0b72e2a1620c49c1fF.jpg?v=1674217681"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RokiOvertime<br>
+        <strong>Type: </strong>0<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Unleash your power with our Curse Mark gym shorts. Continuously seek strength with our Sasuke-themed shorts.</p>
+<p><span>Supporting you with features of:</span></p>
+<ul>
+<li><span>Dual pockets</span></li>
+<li><span>Drawstring waist</span></li>
+<li><span>Durable sublimated design</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Naruto</s:tag>
+    <s:tag>Shorts</s:tag>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104270594342</id>
+      <title>Blue / S</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:202520811#blue1;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104270594342</id>
+      <title>Blue / M</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:202520811#blue1;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104270594342</id>
+      <title>Blue / L</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:202520811#blue1;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104270594342</id>
+      <title>Blue / XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:202520811#blue1;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104270594342</id>
+      <title>Blue / XXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:202520811#blue1;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104270594342</id>
+      <title>Blue / XXXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:202520811#blue1;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104270594342</id>
+      <title>Blue / 4XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:202520811#blue1;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104270594342</id>
+      <title>Blue / 5XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:202520811#blue1;5:200000991</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104270594342</id>
+      <title>Blue / 6XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:202520811#blue1;5:200005259</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rokiovertime.com/en-espanol/products/8104264630566</id>
+    <published>2023-01-20T23:40:46+11:00</published>
+    <updated>2023-01-20T23:40:46+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://rokiovertime.com/en-espanol/products/anime-sports-shorts-men-women-classic-gym-workout-mesh-shorts-one-layer-running-shorts-fashion-design-swimming-fitness-shorts-1"/>
+    <title>Naruto Gym Shorts</title>
+    <s:type></s:type>
+    <s:vendor>RokiOvertime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/4311/0694/products/S6841eac2a3014e8983bdba514f0c73bdO.jpg?v=1674217134"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RokiOvertime<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Believe it! Anything can be achieved with hard work. Keep grinding and continuously growing with our Naruto gym shorts.</p>
+<p> </p>
+<p><span>Supporting you with features of:</span></p>
+<ul>
+<li><span>Dual pockets</span></li>
+<li><span>Drawstring waist</span></li>
+<li><span>Durable sublimated design</span></li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Naruto</s:tag>
+    <s:tag>Shorts</s:tag>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104264630566</id>
+      <title>Black / S</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#black1;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104264630566</id>
+      <title>Black / M</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#black1;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104264630566</id>
+      <title>Black / L</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#black1;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104264630566</id>
+      <title>Black / XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#black1;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104264630566</id>
+      <title>Black / XXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#black1;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104264630566</id>
+      <title>Black / XXXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#black1;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104264630566</id>
+      <title>Black / 4XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#black1;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104264630566</id>
+      <title>Black / 5XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#black1;5:200000991</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104264630566</id>
+      <title>Black / 6XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#black1;5:200005259</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rokiovertime.com/en-espanol/products/8104253653286</id>
+    <published>2023-01-20T23:37:48+11:00</published>
+    <updated>2023-01-20T23:37:48+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://rokiovertime.com/en-espanol/products/anime-mens-gym-fitness-shorts-bodybuilding-jogging-workout-male-short-pants-sport-run-breathable-quick-drying-mesh-sweatpants"/>
+    <title>Madara Gym Shorts</title>
+    <s:type></s:type>
+    <s:vendor>RokiOvertime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/4311/0694/products/Sc46b73de18494d71a92439a8d4f7ebd3p.jpg?v=1674216590"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RokiOvertime<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Become feared by all, a warrior of Madara's caliber, and achieve unyielding power through continuous training with our Naruto-themed gym shorts.</p>
+<p><span>Supporting you with features of:</span></p>
+<ul>
+<li><span>Dual pockets</span></li>
+<li><span>Drawstring waist</span></li>
+<li><span>Durable sublimated design</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Naruto</s:tag>
+    <s:tag>Shorts</s:tag>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104253653286</id>
+      <title>Red / S</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:691#Type 7;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104253653286</id>
+      <title>Grey / S</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:200004890#Type 8;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104253653286</id>
+      <title>Red / M</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:691#Type 7;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104253653286</id>
+      <title>Grey / M</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:200004890#Type 8;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104253653286</id>
+      <title>Red / L</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:691#Type 7;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104253653286</id>
+      <title>Grey / L</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:200004890#Type 8;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104253653286</id>
+      <title>Red / XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:691#Type 7;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104253653286</id>
+      <title>Grey / XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:200004890#Type 8;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104253653286</id>
+      <title>Red / XXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:691#Type 7;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104253653286</id>
+      <title>Grey / XXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:200004890#Type 8;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104253653286</id>
+      <title>Red / XXXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:691#Type 7;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104253653286</id>
+      <title>Grey / XXXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:200004890#Type 8;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104253653286</id>
+      <title>Red / 4XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:691#Type 7;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104253653286</id>
+      <title>Grey / 4XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:200004890#Type 8;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104253653286</id>
+      <title>Red / 5XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:691#Type 7;5:200000991</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104253653286</id>
+      <title>Grey / 5XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:200004890#Type 8;5:200000991</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104253653286</id>
+      <title>Red / 6XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:691#Type 7;5:200005259</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8104253653286</id>
+      <title>Grey / 6XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:200004890#Type 8;5:200005259</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rokiovertime.com/en-espanol/products/8103024066854</id>
+    <published>2023-01-20T16:00:38+11:00</published>
+    <updated>2023-01-20T16:00:38+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://rokiovertime.com/en-espanol/products/anime-attack-on-titan-sport-shorts-men-sportswear-running-short-pants-beach-bottoms-summer-gym-fitness-training-jogging-shorts"/>
+    <title>Wall Rose Gym Shorts</title>
+    <s:type></s:type>
+    <s:vendor>RokiOvertime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/4311/0694/products/Sff1ac40bba364ed0ac63eea01cbdb327x.jpg?v=1674146892"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RokiOvertime<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Push past the walls limiting you with our wall-rose-themed Attack on Titan gym shorts. Our flexible and light shorts will give you the freedom to grind overtime and break your limitations.</p>
+<p><span>Supporting you with features of:</span></p>
+<ul>
+<li><span>Dual pockets</span></li>
+<li><span>Drawstring waist</span></li>
+<li><span>Durable sublimated design</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Attack on Titan</s:tag>
+    <s:tag>Shorts</s:tag>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103024066854</id>
+      <title>Beige / S</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:350852#beige;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103024066854</id>
+      <title>Beige / M</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:350852#beige;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103024066854</id>
+      <title>Beige / L</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:350852#beige;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103024066854</id>
+      <title>Beige / XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:350852#beige;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103024066854</id>
+      <title>Beige / XXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:350852#beige;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103024066854</id>
+      <title>Beige / XXXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:350852#beige;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103024066854</id>
+      <title>Beige / 4XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:350852#beige;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103024066854</id>
+      <title>Beige / 5XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:350852#beige;5:200000991</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103024066854</id>
+      <title>Beige / 6XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:350852#beige;5:200005259</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rokiovertime.com/en-espanol/products/8103030063398</id>
+    <published>2023-01-20T15:56:09+11:00</published>
+    <updated>2023-01-20T15:56:09+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://rokiovertime.com/en-espanol/products/anime-attack-on-titan-sport-shorts-men-sportswear-running-short-pants-beach-bottoms-summer-gym-fitness-training-jogging-shorts-1"/>
+    <title>Scout Gym Shorts</title>
+    <s:type></s:type>
+    <s:vendor>RokiOvertime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/4311/0694/products/Sdec8f148955b4f67a3684c192ae64cad8.jpg?v=1674147361"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RokiOvertime<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Pursue freedom and truth, expand you body and mind, never stop grinding. Our Scout regiment shorts represent the free minded members of humanity.<br></p>
+<p data-mce-fragment="1"><span>Supporting you with features of:</span></p>
+<ul>
+<li><span>Dual pockets</span></li>
+<li><span>Drawstring waist</span></li>
+<li><span>Durable sublimated design</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Attack on Titan</s:tag>
+    <s:tag>Shorts</s:tag>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103030063398</id>
+      <title>Black / S</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:200004889#black7;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103030063398</id>
+      <title>White / S</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:496#white;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103030063398</id>
+      <title>Black / M</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:200004889#black7;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103030063398</id>
+      <title>White / M</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:496#white;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103030063398</id>
+      <title>Black / L</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:200004889#black7;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103030063398</id>
+      <title>White / L</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:496#white;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103030063398</id>
+      <title>Black / XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:200004889#black7;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103030063398</id>
+      <title>White / XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:496#white;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103030063398</id>
+      <title>Black / XXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:200004889#black7;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103030063398</id>
+      <title>White / XXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:496#white;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103030063398</id>
+      <title>Black / XXXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:200004889#black7;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103030063398</id>
+      <title>White / XXXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:496#white;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103030063398</id>
+      <title>Black / 4XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:200004889#black7;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103030063398</id>
+      <title>White / 4XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:496#white;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103030063398</id>
+      <title>Black / 5XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:200004889#black7;5:200000991</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103030063398</id>
+      <title>White / 5XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:496#white;5:200000991</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103030063398</id>
+      <title>Black / 6XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:200004889#black7;5:200005259</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103030063398</id>
+      <title>White / 6XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:496#white;5:200005259</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rokiovertime.com/en-espanol/products/8102992216358</id>
+    <published>2023-01-20T15:51:51+11:00</published>
+    <updated>2023-01-20T15:51:51+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://rokiovertime.com/en-espanol/products/japanese-anime-shorts-printed-fashion-street-gym-shorts-men-loose-casual-daily-workout-jogging-fitness-summer-beach-shorts"/>
+    <title>Baki Stoic Gym Shorts</title>
+    <s:type></s:type>
+    <s:vendor>RokiOvertime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/4311/0694/products/S10837ef554494bbd9903440d2bc4971dF.jpg?v=1674145566"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RokiOvertime<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">A simple and stoic baki pose, for the humble unseen work you've been putting in.<br></p>
+<p><span>Supporting you with features of:</span></p>
+<ul>
+<li><span>Dual pockets</span></li>
+<li><span>Drawstring waist</span></li>
+<li><span>Durable sublimated design</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baki</s:tag>
+    <s:tag>Shorts</s:tag>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8102992216358</id>
+      <title>Black / S</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:200004889#black5;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8102992216358</id>
+      <title>Black / M</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:200004889#black5;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8102992216358</id>
+      <title>Black / L</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:200004889#black5;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8102992216358</id>
+      <title>Black / XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:200004889#black5;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8102992216358</id>
+      <title>Black / XXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:200004889#black5;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8102992216358</id>
+      <title>Black / XXXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:200004889#black5;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8102992216358</id>
+      <title>Black / 4XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:200004889#black5;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8102992216358</id>
+      <title>Black / 5XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:200004889#black5;5:200000991</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8102992216358</id>
+      <title>Black / 6XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:200004889#black5;5:200005259</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rokiovertime.com/en-espanol/products/8103031734566</id>
+    <published>2023-01-20T15:50:18+11:00</published>
+    <updated>2023-01-20T15:50:18+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://rokiovertime.com/en-espanol/products/anime-attack-on-titan-sport-shorts-men-sportswear-running-short-pants-beach-bottoms-summer-gym-fitness-training-jogging-shorts-2"/>
+    <title>Attack Titan Gym Shorts</title>
+    <s:type></s:type>
+    <s:vendor>RokiOvertime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/4311/0694/products/Sc2f38e19272c49a7aa9a6efc84498aa69.jpg?v=1674147516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RokiOvertime<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Attack your workouts with anger in our Attack Titan Gym Shorts. Our flexible and light shorts will give you the freedom to grind overtime and break your limitations.</span></p>
+<p><span>Supporting you with features of:</span></p>
+<ul>
+<li><span>Dual pockets</span></li>
+<li><span>Drawstring waist</span></li>
+<li><span>Durable sublimated design</span></li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Attack on Titan</s:tag>
+    <s:tag>Shorts</s:tag>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103031734566</id>
+      <title>Black / S</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:200001438#black9;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103031734566</id>
+      <title>Beige / S</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:1052#beige1;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103031734566</id>
+      <title>Black / M</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:200001438#black9;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103031734566</id>
+      <title>Beige / M</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:1052#beige1;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103031734566</id>
+      <title>Black / L</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:200001438#black9;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103031734566</id>
+      <title>Beige / L</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:1052#beige1;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103031734566</id>
+      <title>Black / XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:200001438#black9;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103031734566</id>
+      <title>Beige / XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:1052#beige1;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103031734566</id>
+      <title>Black / XXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:200001438#black9;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103031734566</id>
+      <title>Beige / XXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:1052#beige1;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103031734566</id>
+      <title>Black / XXXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:200001438#black9;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103031734566</id>
+      <title>Beige / XXXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:1052#beige1;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103031734566</id>
+      <title>Black / 4XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:200001438#black9;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103031734566</id>
+      <title>Beige / 4XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:1052#beige1;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103031734566</id>
+      <title>Black / 5XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:200001438#black9;5:200000991</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103031734566</id>
+      <title>Beige / 5XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:1052#beige1;5:200000991</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103031734566</id>
+      <title>Black / 6XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:200001438#black9;5:200005259</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103031734566</id>
+      <title>Beige / 6XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:1052#beige1;5:200005259</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rokiovertime.com/en-espanol/products/8103022461222</id>
+    <published>2023-01-20T15:45:30+11:00</published>
+    <updated>2023-01-20T15:45:30+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://rokiovertime.com/en-espanol/products/anime-casual-jogging-shorts-quick-dry-fitness-running-shorts-fashion-male-short-pants-gym-sportwear-running-shorts"/>
+    <title>Armored Titan Gym Shorts</title>
+    <s:type>0</s:type>
+    <s:vendor>RokiOvertime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/4311/0694/products/S38ec12014baf457ab6ae806655423cc2d.jpg?v=1674146805"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RokiOvertime<br>
+        <strong>Type: </strong>0<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Break your boundaries down with our Armored Titan shorts. Our flexible and light shorts will give you the freedom to grind overtime and break your limitations.</span></p>
+<p><span>Supporting you with features of:</span></p>
+<ul>
+<li><span>Dual pockets</span></li>
+<li><span>Drawstring waist</span></li>
+<li><span>Durable sublimated design</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Attack on Titan</s:tag>
+    <s:tag>Shorts</s:tag>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103022461222</id>
+      <title>Red / S</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:1254#red1;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103022461222</id>
+      <title>Red / M</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:1254#red1;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103022461222</id>
+      <title>Red / L</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:1254#red1;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103022461222</id>
+      <title>Red / XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:1254#red1;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103022461222</id>
+      <title>Red / XXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:1254#red1;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103022461222</id>
+      <title>Red / XXXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:1254#red1;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103022461222</id>
+      <title>Red / 4XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:1254#red1;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103022461222</id>
+      <title>Red / 5XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:1254#red1;5:200000991</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103022461222</id>
+      <title>Red / 6XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:1254#red1;5:200005259</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rokiovertime.com/en-espanol/products/8102992511270</id>
+    <published>2023-01-20T14:14:35+11:00</published>
+    <updated>2023-01-20T14:14:35+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://rokiovertime.com/en-espanol/products/japanese-anime-shorts-printed-fashion-street-gym-shorts-men-loose-casual-daily-workout-jogging-fitness-summer-beach-shorts-1"/>
+    <title>Demon Back Gym Shorts</title>
+    <s:type></s:type>
+    <s:vendor>RokiOvertime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/4311/0694/products/S062763b130b54694ab764ce0e0bcca46b.jpg?v=1674145576"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RokiOvertime<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"> </p>
+<p>Back day? Smash your gym workout and get a demon back straight out of Baki.</p>
+<p><span>Supporting you with features of:</span></p>
+<ul>
+<li><span>Dual pockets</span></li>
+<li><span>Drawstring waist</span></li>
+<li><span>Durable sublimated design</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baki</s:tag>
+    <s:tag>Shorts</s:tag>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8102992511270</id>
+      <title>Black / S</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:350852#black8;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8102992511270</id>
+      <title>Black / M</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:350852#black8;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8102992511270</id>
+      <title>Black / L</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:350852#black8;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8102992511270</id>
+      <title>Black / XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:350852#black8;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8102992511270</id>
+      <title>Black / XXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:350852#black8;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8102992511270</id>
+      <title>Black / XXXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:350852#black8;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8102992511270</id>
+      <title>Black / 4XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:350852#black8;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8102992511270</id>
+      <title>Black / 5XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:350852#black8;5:200000991</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8102992511270</id>
+      <title>Black / 6XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:350852#black8;5:200005259</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rokiovertime.com/en-espanol/products/8103034388774</id>
+    <published>2023-01-20T04:04:34+11:00</published>
+    <updated>2023-01-20T04:04:34+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://rokiovertime.com/en-espanol/products/anime-sports-shorts-men-women-classic-gym-workout-mesh-shorts-one-layer-running-shorts-fashion-design-swimming-fitness-shorts"/>
+    <title>Rock Lee Gym Shorts</title>
+    <s:type></s:type>
+    <s:vendor>RokiOvertime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/4311/0694/products/Sb05b99dab51a4bfb8ac563eb3fabc22bC_058ee6d7-e4ab-48a5-b33d-fedc4d4d3a34.jpg?v=1674147755"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RokiOvertime<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #000000;">Kick harder, move faster, and lift heavier, with our Rock Lee gym shorts. Whether you need shorts to hit a <a data-mce-fragment="1" style="color: #000000;" class="Ui2TZ WCMfob oRJe3d" data-ti="overview" role="link" data-ved="2ahUKEwiZqPHs5cv8AhWixTgGHUhGAvoQnZMFegQIXBAC" tabindex="0" data-mce-tabindex="0" jscontroller="PCqCoe" jsaction="rcuQ6b:npT2md;KjsqPd"><span data-mce-fragment="1" role="heading" aria-level="1" class="yKMVIe">Konoha Senpuu in, smash out some taijutsu, or hit leg day PRs in the gym, our boy Rock Lee's inspirational self-discipline is sure to help you perform your best.</span></a></span></p>
+<p><span>Supporting you with features of:</span></p>
+<ul>
+<li><span>Dual pockets</span></li>
+<li><span>Drawstring waist</span></li>
+<li><span>Durable sublimated design</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Naruto</s:tag>
+    <s:tag>Shorts</s:tag>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103034388774</id>
+      <title>Black / S</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:29#black A;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103034388774</id>
+      <title>Black / M</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:29#black A;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103034388774</id>
+      <title>Black / L</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:29#black A;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103034388774</id>
+      <title>Black / XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:29#black A;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103034388774</id>
+      <title>Black / XXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:29#black A;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103034388774</id>
+      <title>Black / XXXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:29#black A;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103034388774</id>
+      <title>Black / 4XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:29#black A;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103034388774</id>
+      <title>Black / 5XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:29#black A;5:200000991</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103034388774</id>
+      <title>Black / 6XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:29#black A;5:200005259</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103034388774</id>
+      <title>Green / S</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:1254#green1;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103034388774</id>
+      <title>Green / M</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:1254#green1;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103034388774</id>
+      <title>Green / L</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:1254#green1;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103034388774</id>
+      <title>Green / XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:1254#green1;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103034388774</id>
+      <title>Green / XXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:1254#green1;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103034388774</id>
+      <title>Green / XXXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:1254#green1;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103034388774</id>
+      <title>Green / 4XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:1254#green1;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103034388774</id>
+      <title>Green / 5XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:1254#green1;5:200000991</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8103034388774</id>
+      <title>Green / 6XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:1254#green1;5:200005259</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rokiovertime.com/en-espanol/products/8097710113062</id>
+    <published>2023-01-17T01:58:04+11:00</published>
+    <updated>2023-01-17T01:58:04+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://rokiovertime.com/en-espanol/products/reaper-death-seal-gym-shorts-1"/>
+    <title>Reaper Death Seal Gym Shorts</title>
+    <s:type></s:type>
+    <s:vendor>RokiOvertime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/4311/0694/products/S0b79c9b0423841518b67d5de7b66b3c9R_f6e66710-c51f-4488-a3b1-9c994b1d3be2.jpg?v=1673880508"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RokiOvertime<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Your fate is sealed. The gym grind has a hold of you now. Become sealed within the gym with our Reaper Death Seal gym shorts, a demonic design from Naruto that is sure to turn heads.</p>
+<p><span>Supporting you with features of:</span></p>
+<ul>
+<li><span>Dual pockets</span></li>
+<li><span>Drawstring waist</span></li>
+<li><span>Durable sublimated design</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Naruto</s:tag>
+    <s:tag>Shorts</s:tag>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8097710113062</id>
+      <title>Black / S</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:1254#black4;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8097710113062</id>
+      <title>Black / M</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:1254#black4;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8097710113062</id>
+      <title>Black / L</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:1254#black4;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8097710113062</id>
+      <title>Black / XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:1254#black4;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8097710113062</id>
+      <title>Black / XXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:1254#black4;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8097710113062</id>
+      <title>Black / XXXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:1254#black4;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8097710113062</id>
+      <title>Black / 4XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:1254#black4;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8097710113062</id>
+      <title>Black / 5XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:1254#black4;5:200000991</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8097710113062</id>
+      <title>Black / 6XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:1254#black4;5:200005259</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rokiovertime.com/en-espanol/products/8094932959526</id>
+    <published>2023-01-15T11:13:30+11:00</published>
+    <updated>2023-01-15T11:13:30+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://rokiovertime.com/en-espanol/products/roki-fight-ready-baki-gym-shorts"/>
+    <title>Fight Ready Baki Gym Shorts</title>
+    <s:type></s:type>
+    <s:vendor>RokiOvertime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/4311/0694/products/S2787ad8ab2dc4797ad63b3481ef60836N.jpg?v=1673672859"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RokiOvertime<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">A quintessential piece for any avid Anime/Gym enthusiast. Represent your dedication &amp; strength within your grind with this classic Baki design.</p>
+<p><span>Supporting you with features of:</span></p>
+<ul>
+<li><span>Dual pockets</span></li>
+<li><span>Drawstring waist</span></li>
+<li><span>Durable sublimated design</span></li>
+</ul>
+<p data-mce-fragment="1"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baki</s:tag>
+    <s:tag>Shorts</s:tag>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094932959526</id>
+      <title>Black / S</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#black1;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094932959526</id>
+      <title>Black / M</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#black1;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094932959526</id>
+      <title>Black / L</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#black1;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094932959526</id>
+      <title>Black / XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#black1;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094932959526</id>
+      <title>Black / XXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#black1;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094932959526</id>
+      <title>Black / XXXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#black1;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094932959526</id>
+      <title>Black / 4XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#black1;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094932959526</id>
+      <title>Black / 5XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#black1;5:200000991</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094932959526</id>
+      <title>Black / 6XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#black1;5:200005259</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rokiovertime.com/en-espanol/products/8094928568614</id>
+    <published>2023-01-15T11:09:38+11:00</published>
+    <updated>2023-01-15T11:09:38+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://rokiovertime.com/en-espanol/products/roki-broly-gym-shorts"/>
+    <title>Broly Gym Shorts</title>
+    <s:type></s:type>
+    <s:vendor>RokiOvertime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/4311/0694/products/S2e706a5bffc74024b9f6694e04172d2bo.jpg?v=1673672122"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RokiOvertime<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Are you ready to unlock your inner Saiyan... Well, now you are with our fantastically styled Gym shorts!</p>
+<p data-mce-fragment="1">Supporting you with features of:</p>
+<ul>
+<li><span>Dual pockets</span></li>
+<li><span>Drawstring waist</span></li>
+<li><span>Durable sublimated design</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DragonBall</s:tag>
+    <s:tag>Shorts</s:tag>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094928568614</id>
+      <title>Black / S</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:350850#black1;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094928568614</id>
+      <title>Black / M</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:350850#black1;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094928568614</id>
+      <title>Black / L</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:350850#black1;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094928568614</id>
+      <title>Black / XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:350850#black1;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094928568614</id>
+      <title>Black / XXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:350850#black1;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094928568614</id>
+      <title>Black / XXXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:350850#black1;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094928568614</id>
+      <title>Black / 4XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:350850#black1;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094928568614</id>
+      <title>Black / 5XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:350850#black1;5:200000991</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094928568614</id>
+      <title>Black / 6XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:350850#black1;5:200005259</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rokiovertime.com/en-espanol/products/8094927421734</id>
+    <published>2023-01-14T16:00:25+11:00</published>
+    <updated>2023-01-14T16:00:25+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://rokiovertime.com/en-espanol/products/roki-kame-gym-shorts"/>
+    <title>Kame Gym Shorts</title>
+    <s:type></s:type>
+    <s:vendor>RokiOvertime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/4311/0694/products/Sff59f159ea3440eeb08a2ab4d0c5a8d3n.jpg?v=1673671903"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RokiOvertime<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Unlike the weighted shells, these shorts are perfectly light letting you train your hardest every day. Represent the kame school with our Dragon-ball-themed gym shorts.</span></p>
+<p><span>Supporting you with features of:</span></p>
+<ul>
+<li><span>Dual pockets</span></li>
+<li><span>Drawstring waist</span></li>
+<li><span>Durable sublimated design</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DragonBall</s:tag>
+    <s:tag>Shorts</s:tag>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094927421734</id>
+      <title>Blue / S</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:193#blue;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094927421734</id>
+      <title>Blue / M</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:193#blue;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094927421734</id>
+      <title>Blue / L</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:193#blue;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094927421734</id>
+      <title>Blue / XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:193#blue;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094927421734</id>
+      <title>Blue / XXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:193#blue;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094927421734</id>
+      <title>Blue / XXXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:193#blue;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094927421734</id>
+      <title>Blue / 4XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:193#blue;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094927421734</id>
+      <title>Blue / 5XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:193#blue;5:200000991</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094927421734</id>
+      <title>Blue / 6XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:193#blue;5:200005259</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rokiovertime.com/en-espanol/products/8094927683878</id>
+    <published>2023-01-14T15:56:33+11:00</published>
+    <updated>2023-01-14T15:56:33+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://rokiovertime.com/en-espanol/products/roki-goku-gym-shorts"/>
+    <title>Goku Gym Shorts</title>
+    <s:type></s:type>
+    <s:vendor>RokiOvertime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/4311/0694/products/S0b1c121c1ec3420e8149d8e34c7fcfedV.jpg?v=1673671944"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RokiOvertime<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Are you ready to unlock your inner Saiyan... Well, now you are with our fantastically styled Gym shorts! Represent the strongest, with our classic Goku Gym Shorts.</p>
+<p><span>Supporting you with features of:</span></p>
+<ul>
+<li><span>Dual pockets</span></li>
+<li><span>Drawstring waist</span></li>
+<li><span>Durable sublimated design</span></li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DragonBall</s:tag>
+    <s:tag>Shorts</s:tag>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094927683878</id>
+      <title>Orange / S</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#orange;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094927683878</id>
+      <title>Orange / M</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#orange;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094927683878</id>
+      <title>Orange / L</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#orange;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094927683878</id>
+      <title>Orange / XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#orange;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094927683878</id>
+      <title>Orange / XXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#orange;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094927683878</id>
+      <title>Orange / XXXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#orange;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094927683878</id>
+      <title>Orange / 4XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#orange;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094927683878</id>
+      <title>Orange / 5XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#orange;5:200000991</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094927683878</id>
+      <title>Orange / 6XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#orange;5:200005259</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rokiovertime.com/en-espanol/products/8094906843430</id>
+    <published>2023-01-14T14:44:51+11:00</published>
+    <updated>2023-01-14T14:44:51+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://rokiovertime.com/en-espanol/products/roki-black-rose-gym-shorts"/>
+    <title>Black Rose Gym Shorts</title>
+    <s:type></s:type>
+    <s:vendor>RokiOvertime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/4311/0694/products/S817c7658ae564250a8817594674a66efP.jpg?v=1673667057"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RokiOvertime<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Are you ready to unlock your inner Saiyan... Well, now you are with our fantastically styled Gym shorts!</p>
+<p><span>Supporting you with features of:</span></p>
+<ul>
+<li><span>Dual pockets</span></li>
+<li><span>Drawstring waist</span></li>
+<li><span>Durable sublimated design</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DragonBall</s:tag>
+    <s:tag>Shorts</s:tag>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094906843430</id>
+      <title>Black / S</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#black1;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094906843430</id>
+      <title>Silver / S</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:193#sliver1;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094906843430</id>
+      <title>Black / M</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#black1;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094906843430</id>
+      <title>Silver / M</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:193#sliver1;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094906843430</id>
+      <title>Black / L</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#black1;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094906843430</id>
+      <title>Silver / L</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:193#sliver1;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094906843430</id>
+      <title>Black / XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#black1;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094906843430</id>
+      <title>Silver / XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:193#sliver1;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094906843430</id>
+      <title>Black / XXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#black1;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094906843430</id>
+      <title>Silver / XXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:193#sliver1;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094906843430</id>
+      <title>Black / XXXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#black1;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094906843430</id>
+      <title>Silver / XXXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:193#sliver1;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094906843430</id>
+      <title>Black / 4XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#black1;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094906843430</id>
+      <title>Silver / 4XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:193#sliver1;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094906843430</id>
+      <title>Black / 5XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#black1;5:200000991</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094906843430</id>
+      <title>Silver / 5XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:193#sliver1;5:200000991</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094906843430</id>
+      <title>Black / 6XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#black1;5:200005259</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094906843430</id>
+      <title>Silver / 6XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:193#sliver1;5:200005259</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rokiovertime.com/en-espanol/products/8094906810662</id>
+    <published>2023-01-14T14:40:36+11:00</published>
+    <updated>2023-01-14T14:40:36+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://rokiovertime.com/en-espanol/products/roki-dragon-ball-gym-shorts-1"/>
+    <title>Goku &amp; Gohan Gym Shorts</title>
+    <s:type>0</s:type>
+    <s:vendor>RokiOvertime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/4311/0694/products/S033af86328ca4103b9937455e02ceba9W.jpg?v=1673667054"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RokiOvertime<br>
+        <strong>Type: </strong>0<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Unlock your inner Saiyan at the gym with our Goku/Gohan gym shorts, a must-have for any Dragonball Z fan.<br></p>
+<p> </p>
+<p><span>Supporting you with features of:</span></p>
+<ul>
+<li><span>Dual pockets</span></li>
+<li><span>Drawstring waist</span></li>
+<li><span>Durable sublimated design</span></li>
+</ul>
+<p data-mce-fragment="1"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DragonBall</s:tag>
+    <s:tag>Shorts</s:tag>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094906810662</id>
+      <title>Black / S</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:365458#black3;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094906810662</id>
+      <title>Gold / S</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:350850#gold1;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094906810662</id>
+      <title>Black / M</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:365458#black3;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094906810662</id>
+      <title>Gold / M</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:350850#gold1;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094906810662</id>
+      <title>Black / L</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:365458#black3;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094906810662</id>
+      <title>Gold / L</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:350850#gold1;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094906810662</id>
+      <title>Black / XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:365458#black3;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094906810662</id>
+      <title>Gold / XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:350850#gold1;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094906810662</id>
+      <title>Black / XXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:365458#black3;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094906810662</id>
+      <title>Gold / XXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:350850#gold1;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094906810662</id>
+      <title>Black / XXXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:365458#black3;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094906810662</id>
+      <title>Gold / XXXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:350850#gold1;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094906810662</id>
+      <title>Black / 4XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:365458#black3;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094906810662</id>
+      <title>Gold / 4XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:350850#gold1;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094906810662</id>
+      <title>Black / 5XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:365458#black3;5:200000991</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094906810662</id>
+      <title>Gold / 5XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:350850#gold1;5:200000991</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094906810662</id>
+      <title>Black / 6XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:365458#black3;5:200005259</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8094906810662</id>
+      <title>Gold / 6XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:350850#gold1;5:200005259</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rokiovertime.com/en-espanol/products/8093731389734</id>
+    <published>2023-01-13T18:27:09+11:00</published>
+    <updated>2023-01-13T18:27:09+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://rokiovertime.com/en-espanol/products/roki-dragon-ball-gym-shorts"/>
+    <title>Super Saiyan Blue Gym Shorts</title>
+    <s:type>0</s:type>
+    <s:vendor>RokiOvertime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/4311/0694/products/S25e44c09f5064c3b9877fa80d134ff483.jpg?v=1673591292"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RokiOvertime<br>
+        <strong>Type: </strong>0<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Are you ready to unlock your inner Saiyan... Well, now you are with our fantastically styled Gym shorts!</p>
+<p><span>Supporting you with features of:</span></p>
+<ul>
+<li><span>Dual pockets</span></li>
+<li><span>Drawstring waist</span></li>
+<li><span>Durable sublimated design</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DragonBall</s:tag>
+    <s:tag>Shorts</s:tag>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8093731389734</id>
+      <title>White / S</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#white1;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8093731389734</id>
+      <title>White / M</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#white1;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8093731389734</id>
+      <title>White / L</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#white1;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8093731389734</id>
+      <title>White / XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#white1;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8093731389734</id>
+      <title>White / XXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#white1;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8093731389734</id>
+      <title>White / XXXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#white1;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8093731389734</id>
+      <title>White / 4XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#white1;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8093731389734</id>
+      <title>White / 5XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#white1;5:200000991</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8093731389734</id>
+      <title>White / 6XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:771#white1;5:200005259</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8093731389734</id>
+      <title>Black / S</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:173#black1;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8093731389734</id>
+      <title>Black / M</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:173#black1;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8093731389734</id>
+      <title>Black / L</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:173#black1;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8093731389734</id>
+      <title>Black / XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:173#black1;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8093731389734</id>
+      <title>Black / XXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:173#black1;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8093731389734</id>
+      <title>Black / XXXL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:173#black1;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8093731389734</id>
+      <title>Black / 4XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:173#black1;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8093731389734</id>
+      <title>Black / 5XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:173#black1;5:200000991</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/en-espanol/products/8093731389734</id>
+      <title>Black / 6XL</title>
+      <s:price currency="AUD">39.99</s:price>
+      <s:sku>14:173#black1;5:200005259</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rokiovertime.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rokiovertime.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rokiovertime.com/collections/hoodies.atom"/>
+  <title>RokiOvertime</title>
+  <updated>2023-03-02T19:58:23+11:00</updated>
+  <author>
+    <name>RokiOvertime</name>
+  </author>
+  <entry>
+    <id>https://rokiovertime.com/products/8164937826598</id>
+    <published>2023-03-02T19:58:23+11:00</published>
+    <updated>2023-03-02T19:58:23+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://rokiovertime.com/products/gear-5-hoodie-pre-order"/>
+    <title>Gear 5 Hoodie</title>
+    <s:type>hoodie</s:type>
+    <s:vendor>RokiOvertime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/4311/0694/files/IMG_5023.heic?v=1687963195"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RokiOvertime<br>
+        <strong>Type: </strong>hoodie<br>
+        <strong>Price: </strong>
+            99.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Crown-Jewel of Gym &amp; streetwear clothing!</p>
+<p>High-quality durable hoodies with embroidered front Decals &amp; exquisite high-quality printing on the back.</p>
+<p>Made in Australia with a 50SPF Rating</p>
+<p>80% Cotton and 20% Polyester with a density of 340gsm! This means it has a soft and moderately heavy feel, perfect for cold mornings and nights warming up in the gym.</p>
+<p>Get in quick as I guarantee you can't find these anywhere else!</p>
+<p><span style="text-decoration: underline;"><strong>Sizing Guide:</strong></span></p>
+<p><img data-mce-fragment="1" src="https://cdn.shopify.com/s/files/1/0688/4311/0694/files/Screenshot2023-03-11180330_480x480.png?v=1678518231" alt="" data-mce-src="https://cdn.shopify.com/s/files/1/0688/4311/0694/files/Screenshot2023-03-11180330_480x480.png?v=1678518231"><br></p>
+<p><strong>Chest Width</strong><span> </span>is measured from armpit to armpit in centimetres.</p>
+<p><strong>Body Length</strong><span> </span>is measured from the top of the shoulder to the bottom of the hoodie in centimetres.</p>
+<p>(Note, small fits well on a 165cm tall model of 64kg. Medium fits well on a 170cm tall model of 72kg)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hoodie</s:tag>
+    <s:variant>
+      <id>https://rokiovertime.com/products/8164937826598</id>
+      <title>S</title>
+      <s:price currency="AUD">99.99</s:price>
+      <s:sku>S-G5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/products/8164937826598</id>
+      <title>M</title>
+      <s:price currency="AUD">99.99</s:price>
+      <s:sku>M-G5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/products/8164937826598</id>
+      <title>L</title>
+      <s:price currency="AUD">99.99</s:price>
+      <s:sku>L-G5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/products/8164937826598</id>
+      <title>XL</title>
+      <s:price currency="AUD">99.99</s:price>
+      <s:sku>XL-G5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/products/8164937826598</id>
+      <title>2XL</title>
+      <s:price currency="AUD">99.99</s:price>
+      <s:sku>2XL-G5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/products/8164937826598</id>
+      <title>3XL</title>
+      <s:price currency="AUD">99.99</s:price>
+      <s:sku>3XL-G5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/products/8164937826598</id>
+      <title>5XL</title>
+      <s:price currency="AUD">99.99</s:price>
+      <s:sku>5XL-G5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rokiovertime.com/products/8142700052774</id>
+    <published>2023-02-18T14:29:27+11:00</published>
+    <updated>2023-02-18T14:29:27+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://rokiovertime.com/products/luffy-hoodie"/>
+    <title>Mugen Hoodie</title>
+    <s:type>hoodie</s:type>
+    <s:vendor>RokiOvertime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/4311/0694/files/IMG_5038.heic?v=1687963164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RokiOvertime<br>
+        <strong>Type: </strong>hoodie<br>
+        <strong>Price: </strong>
+            99.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Crown-Jewel of gym &amp; streetwear clothing!</p>
+<p>Inspired by Samurai Champloo, this hoodie features three embroidered sunflowers on the left chest representing Fuu, Jin, and Mugen. Mugen's kimono sleeve design is featured on the hoodie shoulder, as well as his sword hidden within the back design, a scene recreated by our artist from the show's opening.</p>
+<p>High-quality durable hoodies with embroidered front Decals &amp; exquisite high-quality printing on the back.</p>
+<p>Made in Australia with a 50SPF Rating</p>
+<p>80% Cotton and 20% Polyester with a density of 340gsm! This means it has a soft and moderately heavy feel, perfect for cold mornings and nights warming up in the gym.</p>
+<p>Get in quick as I guarantee you can't find these anywhere else!</p>
+<p><span style="text-decoration: underline;"><strong>Sizing Guide:</strong></span></p>
+<p><img src="https://cdn.shopify.com/s/files/1/0688/4311/0694/files/Screenshot2023-03-11180330_480x480.png?v=1678518231" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0688/4311/0694/files/Screenshot2023-03-11180330_480x480.png?v=1678518231"><br></p>
+<p><strong>Chest Width</strong> is measured from armpit to armpit in centimetres.</p>
+<p><strong>Body Length</strong> is measured from the top of the shoulder to the bottom of the hoodie in centimetres.</p>
+<p>(Note, small fits well on a 165cm model of 64kg. Small fits tight on a 172cm tall model of 72kg)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hoodie</s:tag>
+    <s:variant>
+      <id>https://rokiovertime.com/products/8142700052774</id>
+      <title>S</title>
+      <s:price currency="AUD">99.99</s:price>
+      <s:sku>S-MH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/products/8142700052774</id>
+      <title>M</title>
+      <s:price currency="AUD">99.99</s:price>
+      <s:sku>M-MH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/products/8142700052774</id>
+      <title>L</title>
+      <s:price currency="AUD">99.99</s:price>
+      <s:sku>L-MH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/products/8142700052774</id>
+      <title>XL</title>
+      <s:price currency="AUD">99.99</s:price>
+      <s:sku>XL-MH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/products/8142700052774</id>
+      <title>2XL</title>
+      <s:price currency="AUD">99.99</s:price>
+      <s:sku>XXL-MH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/products/8142700052774</id>
+      <title>3XL</title>
+      <s:price currency="AUD">99.99</s:price>
+      <s:sku>3XL-MH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/products/8142700052774</id>
+      <title>5XL</title>
+      <s:price currency="AUD">99.99</s:price>
+      <s:sku>5XL-MH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rokiovertime.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rokiovertime.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rokiovertime.com/collections/anime-hand-wraps.atom"/>
+  <title>RokiOvertime</title>
+  <updated>2023-07-30T17:39:32+10:00</updated>
+  <author>
+    <name>RokiOvertime</name>
+  </author>
+  <entry>
+    <id>https://rokiovertime.com/products/8485040324902</id>
+    <published>2023-07-30T17:39:32+10:00</published>
+    <updated>2023-07-30T17:39:32+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://rokiovertime.com/products/fighters-triple-pack"/>
+    <title>Fighters Triple Pack</title>
+    <s:type></s:type>
+    <s:vendor>RokiOvertime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/4311/0694/files/temp_F2w8dni_8b201953-f7d5-41ef-ab3f-b0a02a300268.png?v=1690702568"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RokiOvertime<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A 1-2-3 combo of our complete handwrap drop! Get yourself enough wraps to always have a clean pair, and receive a discount on our Dragonball, Naruto, and Hajime no Ippo-inspired anime wraps! The bundle is only active until August 1st so act fast! Included wraps are 4.5m, check out each of their individual pages for more details on them!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bundle</s:tag>
+    <s:tag>DragonBall</s:tag>
+    <s:tag>Handwrap</s:tag>
+    <s:tag>ippo</s:tag>
+    <s:tag>Naruto</s:tag>
+    <s:variant>
+      <id>https://rokiovertime.com/products/8485040324902</id>
+      <title>Ippo-Dragon Ball-Naruto</title>
+      <s:price currency="AUD">80.00</s:price>
+      <s:sku>wrap-3bundle</s:sku>
+      <s:grams>342</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rokiovertime.com/products/8386847736102</id>
+    <published>2023-06-24T09:59:31+10:00</published>
+    <updated>2023-06-24T09:59:31+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://rokiovertime.com/products/naruto-boxing-hand-wraps-pre-order"/>
+    <title>Naruto Boxing Hand Wraps</title>
+    <s:type></s:type>
+    <s:vendor>RokiOvertime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/4311/0694/files/July5thSlide4.png?v=1688199066"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RokiOvertime<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Hit harder than ever with our Naruto-inspired sage of six paths boxing hand wraps. Designed to motivate you to fight for your personal best, these wraps feature the magatama design along the full-length.</p>
+<p data-mce-fragment="1">Take your boxing, muay thai, MMA, or martial art to the next level with our Mexican-style elastic-cotton blend, made premium to ensure the protection of your wrist and knuckles through the toughest of sessions. This pair is inspired by the absolute classic of Shonen anime.</p>
+<p data-mce-fragment="1"><strong>LIMITED </strong><span><strong>AVAILABILITY- </strong>so order before you miss out!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Handwrap</s:tag>
+    <s:tag>Naruto</s:tag>
+    <s:variant>
+      <id>https://rokiovertime.com/products/8386847736102</id>
+      <title>4m / 160&quot;</title>
+      <s:price currency="AUD">30.00</s:price>
+      <s:sku>Naruto-Wrap-4</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/products/8386847736102</id>
+      <title>4.5m / 180&quot;</title>
+      <s:price currency="AUD">30.00</s:price>
+      <s:sku>Naruto-Wrap</s:sku>
+      <s:grams>114</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/products/8386847736102</id>
+      <title>5m / 200&quot;</title>
+      <s:price currency="AUD">30.00</s:price>
+      <s:sku>Naruto-Wrap-5</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rokiovertime.com/products/8386838528294</id>
+    <published>2023-06-24T09:58:41+10:00</published>
+    <updated>2023-06-24T09:58:41+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://rokiovertime.com/products/dragon-ball-boxing-hand-wraps-pre-order"/>
+    <title>Dragon Ball Boxing Hand Wraps</title>
+    <s:type></s:type>
+    <s:vendor>RokiOvertime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/4311/0694/files/July5thSlide3.png?v=1688198822"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RokiOvertime<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Train like Goku with our Shrenron-inspired Dragon Ball boxing Handwraps designed to motivate you to fight for your personal best! Take your boxing, muay thai, mma, or any martial art to the next level with our Mexican-style elastic-cotton blend.</p>
+<p data-mce-fragment="1">These wraps are made premium to ensure the protection of your wrist and knuckles. Go the extra mile with the full-length print along the wrap, inspired by the classic anime Dragon Ball.</p>
+<p data-mce-fragment="1"><strong>LIMITED </strong><span><strong>AVAILABILITY- </strong>so order before you miss out!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DragonBall</s:tag>
+    <s:tag>Handwrap</s:tag>
+    <s:variant>
+      <id>https://rokiovertime.com/products/8386838528294</id>
+      <title>4m / 160&quot;</title>
+      <s:price currency="AUD">30.00</s:price>
+      <s:sku>Dragon-Wrap-4</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/products/8386838528294</id>
+      <title>4.5m / 180&quot;</title>
+      <s:price currency="AUD">30.00</s:price>
+      <s:sku>Dragon-Wrap</s:sku>
+      <s:grams>114</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/products/8386838528294</id>
+      <title>5m / 200&quot;</title>
+      <s:price currency="AUD">30.00</s:price>
+      <s:sku>Dragon-Wrap-5</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rokiovertime.com/products/8386810216742</id>
+    <published>2023-06-24T09:29:40+10:00</published>
+    <updated>2023-06-24T09:29:40+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://rokiovertime.com/products/hajime-no-ippo-boxing-hand-wraps"/>
+    <title>Hajime no Ippo Boxing Hand Wraps-</title>
+    <s:type></s:type>
+    <s:vendor>RokiOvertime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/4311/0694/files/July5thSlide2.png?v=1688199005"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RokiOvertime<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>LIMITED </strong><span><strong>AVAILABILITY- Delayed Shipping Times due to restock! 1-month delay!!!</strong></span></p>
+<p>Train like a champion with these Hajime no Ippo Boxing Hand Wraps - designed to motivate you to fight for your personal best! Take your boxing, muay thai, mma, or any martial art, to the next level with our Mexican-style elastic-cotton blend. <br>These wraps are made premium to ensure the protection of your wrist and knuckles. Go the extra mile with the full-length print along the wrap, inspired by the legendary anime Hajime no Ippo. Ready, set, fight!</p>
+<p><strong>LIMITED </strong><span><strong>AVAILABILITY- Delayed Shipping Times due to restock! 1 month delay!!!</strong></span></p>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Handwrap</s:tag>
+    <s:tag>ippo</s:tag>
+    <s:variant>
+      <id>https://rokiovertime.com/products/8386810216742</id>
+      <title>4m / 160&quot;</title>
+      <s:price currency="AUD">30.00</s:price>
+      <s:sku>Ippo-Wrap-4</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/products/8386810216742</id>
+      <title>4.5m / 180&quot;</title>
+      <s:price currency="AUD">30.00</s:price>
+      <s:sku>Ippo-Wrap</s:sku>
+      <s:grams>114</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/products/8386810216742</id>
+      <title>5m / 200&quot;</title>
+      <s:price currency="AUD">30.00</s:price>
+      <s:sku>Ippo-Wrap-5</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+</feed>

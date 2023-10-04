@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rokiovertime.com/es-cl/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rokiovertime.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rokiovertime.com/es-cl/collections/hoodies.atom"/>
+  <title>RokiOvertime</title>
+  <updated>2023-03-02T19:58:23+11:00</updated>
+  <author>
+    <name>RokiOvertime</name>
+  </author>
+  <entry>
+    <id>https://rokiovertime.com/es-cl/products/8164937826598</id>
+    <published>2023-03-02T19:58:23+11:00</published>
+    <updated>2023-03-02T19:58:23+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://rokiovertime.com/es-cl/products/gear-5-hoodie-pre-order"/>
+    <title>Sudadera con capucha Gear 5</title>
+    <s:type>hoodie</s:type>
+    <s:vendor>RokiOvertime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/4311/0694/files/IMG_5023.heic?v=1687963195"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>RokiOvertime<br>
+        <strong>Tipo: </strong>hoodie<br>
+        <strong>Precio: </strong>
+            99.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> ¡Nuestra joya de la corona de la ropa de gimnasia y streetwear!</p>
+<p> Sudaderas con capucha duraderas de alta calidad con calcomanías bordadas en el frente y exquisita impresión de alta calidad en la parte posterior.</p>
+<p> Fabricado en Australia con una calificación de 50SPF</p>
+<p> 80% Algodón y 20% Poliéster con una densidad de 340gsm! Esto significa que tiene una sensación suave y moderadamente pesada, perfecta para las mañanas frías y las noches de calentamiento en el gimnasio.</p>
+<p> ¡Entre rápido ya que le garantizo que no podrá encontrarlos en ningún otro lugar!</p>
+<p> <span style="text-decoration: underline;"><strong>Guía de tallas:</strong></span> </p>
+<p><img data-mce-fragment="1" src="https://cdn.shopify.com/s/files/1/0688/4311/0694/files/Screenshot2023-03-11180330_480x480.png?v=1678518231" alt="" data-mce-src="https://cdn.shopify.com/s/files/1/0688/4311/0694/files/Screenshot2023-03-11180330_480x480.png?v=1678518231"><br></p>
+<p> <strong>Ancho del pecho</strong><span> </span>se mide de axila a axila en centímetros.</p>
+<p> <strong>Longitud corporal</strong><span> </span>se mide desde la parte superior del hombro hasta la parte inferior de la sudadera con capucha en centímetros.</p>
+<p> (Tenga en cuenta que el tamaño pequeño se adapta bien a un modelo de 165 cm de altura y 64 kg. El tamaño mediano se adapta bien a un modelo de 170 cm de altura y 72 kg)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hoodie</s:tag>
+    <s:variant>
+      <id>https://rokiovertime.com/es-cl/products/8164937826598</id>
+      <title>S</title>
+      <s:price currency="AUD">99.99</s:price>
+      <s:sku>S-G5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-cl/products/8164937826598</id>
+      <title>M</title>
+      <s:price currency="AUD">99.99</s:price>
+      <s:sku>M-G5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-cl/products/8164937826598</id>
+      <title>L</title>
+      <s:price currency="AUD">99.99</s:price>
+      <s:sku>L-G5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-cl/products/8164937826598</id>
+      <title>SG</title>
+      <s:price currency="AUD">99.99</s:price>
+      <s:sku>XL-G5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-cl/products/8164937826598</id>
+      <title>2XL</title>
+      <s:price currency="AUD">99.99</s:price>
+      <s:sku>2XL-G5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-cl/products/8164937826598</id>
+      <title>3XL</title>
+      <s:price currency="AUD">99.99</s:price>
+      <s:sku>3XL-G5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-cl/products/8164937826598</id>
+      <title>5XL</title>
+      <s:price currency="AUD">99.99</s:price>
+      <s:sku>5XL-G5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rokiovertime.com/es-cl/products/8142700052774</id>
+    <published>2023-02-18T14:29:27+11:00</published>
+    <updated>2023-02-18T14:29:27+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://rokiovertime.com/es-cl/products/luffy-hoodie"/>
+    <title>Sudadera con capucha Mugen</title>
+    <s:type>hoodie</s:type>
+    <s:vendor>RokiOvertime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0688/4311/0694/files/IMG_5038.heic?v=1687963164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>RokiOvertime<br>
+        <strong>Tipo: </strong>hoodie<br>
+        <strong>Precio: </strong>
+            99.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> ¡Nuestra joya de la corona de la ropa de deporte y de calle!</p>
+ <p>Inspirada en Samurai Champloo, esta sudadera con capucha presenta tres girasoles bordados en el lado izquierdo del pecho que representan a Fuu, Jin y Mugen. El diseño de la manga del kimono de Mugen aparece en el hombro de la sudadera con capucha, así como su espada escondida dentro del diseño de la espalda, una escena recreada por nuestro artista de la apertura del espectáculo.</p>
+<p> Sudaderas con capucha duraderas de alta calidad con calcomanías bordadas en el frente y exquisita impresión de alta calidad en la parte posterior.</p>
+<p> Fabricado en Australia con una calificación de 50SPF</p>
+<p> 80% Algodón y 20% Poliéster con una densidad de 340gsm! Esto significa que tiene una sensación suave y moderadamente pesada, perfecta para las mañanas frías y las noches de calentamiento en el gimnasio.</p>
+<p> ¡Entre rápido ya que le garantizo que no podrá encontrarlos en ningún otro lugar!</p>
+<p> <span style="text-decoration: underline;"><strong>Guía de tallas:</strong></span> </p>
+<p><img src="https://cdn.shopify.com/s/files/1/0688/4311/0694/files/Screenshot2023-03-11180330_480x480.png?v=1678518231" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0688/4311/0694/files/Screenshot2023-03-11180330_480x480.png?v=1678518231"><br></p>
+<p> <strong>El ancho del pecho</strong> se mide de axila a axila en centímetros.</p>
+<p> <strong>La longitud del cuerpo</strong> se mide desde la parte superior del hombro hasta la parte inferior de la sudadera con capucha en centímetros.</p>
+ <p>(Nota: el tamaño pequeño se ajusta bien a un modelo de 165 cm y 64 kg. El tamaño pequeño se ajusta bien a un modelo de 172 cm de altura y 72 kg)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hoodie</s:tag>
+    <s:variant>
+      <id>https://rokiovertime.com/es-cl/products/8142700052774</id>
+      <title>S</title>
+      <s:price currency="AUD">99.99</s:price>
+      <s:sku>S-MH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-cl/products/8142700052774</id>
+      <title>M</title>
+      <s:price currency="AUD">99.99</s:price>
+      <s:sku>M-MH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-cl/products/8142700052774</id>
+      <title>L</title>
+      <s:price currency="AUD">99.99</s:price>
+      <s:sku>L-MH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-cl/products/8142700052774</id>
+      <title>SG</title>
+      <s:price currency="AUD">99.99</s:price>
+      <s:sku>XL-MH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-cl/products/8142700052774</id>
+      <title>2XL</title>
+      <s:price currency="AUD">99.99</s:price>
+      <s:sku>XXL-MH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-cl/products/8142700052774</id>
+      <title>3XL</title>
+      <s:price currency="AUD">99.99</s:price>
+      <s:sku>3XL-MH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rokiovertime.com/es-cl/products/8142700052774</id>
+      <title>5XL</title>
+      <s:price currency="AUD">99.99</s:price>
+      <s:sku>5XL-MH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
